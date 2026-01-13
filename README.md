@@ -1,4 +1,4 @@
-# Hi, I'm Varsha 👋
+# Hi, I'm Varsha Chauhan
 📍 India | Open to software engineering internships
 
 🎓 Computer Science student at MAIT (IPU)  
